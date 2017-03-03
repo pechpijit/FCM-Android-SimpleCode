@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseProject</string>
+    <string name="subscribe_to_news">Subscribe Topic</string>
+    <string name="unsubscribe_to_news">Unsubscribe Topic</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_unsubscribed">Unsubscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+</resources>
